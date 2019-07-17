@@ -3,4 +3,4 @@ This is an example project to demonstrate the use of git on Ubuntu.
 
 Remove .idea directory...
 
-Making a change aaa
+Making a change bbb
